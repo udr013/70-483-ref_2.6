@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarbageCollection", "GarbageCollection\GarbageCollection.csproj", "{429DC847-CE12-477C-BEC1-54246E7C32B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisposePattern", "DisposePattern\DisposePattern.csproj", "{DF23E7CE-75F6-4383-BE30-8D2CFE267BF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{429DC847-CE12-477C-BEC1-54246E7C32B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429DC847-CE12-477C-BEC1-54246E7C32B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429DC847-CE12-477C-BEC1-54246E7C32B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429DC847-CE12-477C-BEC1-54246E7C32B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF23E7CE-75F6-4383-BE30-8D2CFE267BF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF23E7CE-75F6-4383-BE30-8D2CFE267BF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF23E7CE-75F6-4383-BE30-8D2CFE267BF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF23E7CE-75F6-4383-BE30-8D2CFE267BF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A6C4B04-E32F-427F-BBA7-77266FE8911A}
+	EndGlobalSection
+EndGlobal
